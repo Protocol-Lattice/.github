@@ -1,16 +1,23 @@
 # Protocol Lattice
 
-*Weaving the fabric of intelligent systems.*
+Building open infrastructure for AI systems.
 
-## Our Mission
+## What We Do
 
-Protocol Lattice is a research collective dedicated to designing and implementing open standards for AI interaction, tooling, and memory. We build interconnected, protocol-first infrastructure to ensure interoperability and advance the frontier of autonomous systems.
+Protocol Lattice develops open standards and tools for AI interaction, memory, and tooling. We focus on practical implementations that enable different AI systems to work together effectively.
 
-## Open Source Philosophy
+## Our Approach
 
-Build practical, well-documented tools and protocols that solve real problems. We focus on clean APIs, long-term maintainability, and fostering community collaboration.
+We prioritize:
+- **Clear specifications** over abstract theory
+- **Working code** over comprehensive roadmaps  
+- **Real-world adoption** over feature completeness
+- **Community input** over top-down design
 
-## Partnerships & Collaboration
+## Open Source
 
-We believe in the power of open collaboration to build the future of AI. We partner with organizations and researchers to advance the development and adoption of open standards. If you are building on our protocols or are interested in a strategic partnership, please get in touch.
+Everything we build is open source. We write documentation that helps developers implement and extend our work. Our goal is to create tools that remain useful and maintainable over time.
 
+## Get Involved
+
+If you're working on AI infrastructure, implementing our protocols, or interested in collaborating, we'd like to hear from you.
