@@ -1,10 +1,8 @@
-# Protocol Lattice
-
-Building open infrastructure for AI systems.
+<img width="1304" height="209" alt="Zrzut ekranu 2025-10-29 o 11 11 40" src="https://github.com/user-attachments/assets/ba1e8235-36f9-49e7-9998-89b1546836e7" />
 
 ## What We Do
 
-Protocol Lattice develops open standards and tools for AI interaction, memory, and tooling. We focus on practical implementations that enable different AI systems to work together effectively.
+**Protocol Lattice** develops open standards and tools for AI interaction, memory, and tooling. We focus on practical implementations that enable different AI systems to work together effectively.
 
 ## Our Approach
 
